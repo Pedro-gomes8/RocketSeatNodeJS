@@ -1,0 +1,19 @@
+{
+  "name": "understandingnode",
+  "version": "1.0.0",
+  "description": "setup para apps Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-gomes8/rocketseat_courses.git"
+  },
+  "author": "Pedro Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro-gomes8/rocketseat_courses/issues"
+  },
+  "homepage": "https://github.com/Pedro-gomes8/rocketseat_courses#readme"
+}

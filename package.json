@@ -1,0 +1,22 @@
+{
+  "name": "rocketseatnode",
+  "version": "1.0.0",
+  "description": "Learning a thing or two about setup for Nodejs applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-gomes8/RocketSeatNodeJS.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Pedro Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro-gomes8/RocketSeatNodeJS/issues"
+  },
+  "homepage": "https://github.com/Pedro-gomes8/RocketSeatNodeJS#readme"
+}
